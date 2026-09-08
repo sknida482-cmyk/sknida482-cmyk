@@ -15,7 +15,6 @@ ________________________________________________________________________________
 • HTML5
 • CSS3
 • JavaScript (ES6+)
-• HTML5
 • Responsive Web Design 
 • Git & GitHub 
 • VS Code
