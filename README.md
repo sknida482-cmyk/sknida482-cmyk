@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Nida Afreen 👋
 
-<!--
-**sknida482-cmyk/sknida482-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer | BCA Student
 
-Here are some ideas to get you started:
+_____________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front-End Web Development enthusiast with a strong foundation in HTML, CSS, and JavaScript.
+I enjoy building responsive and interactive web interfaces through practical projects.
+
+
+_____________________________________________________________________________________________________________________________________
+
+🛠️ SKILLS
+
+• HTML5
+• CSS3
+• JavaScript (ES6+)
+• HTML5
+• Responsive Web Design 
+• Git & GitHub 
+• VS Code
+
+_____________________________________________________________________________________________________________________________________
+
+🌱 CURRENTLY LEARNING
+
+React • Tailwind CSS • Netlify
+_____________________________________________________________________________________________________________________________________
+
+📌 PROJECTS
+
+⏰ Digital Clock — HTML, CSS & JavaScript
+
+🎮 Rock Paper Scissors — HTML, CSS & JavaScript
+_____________________________________________________________________________________________________________________________________
+
+🎯 GOAL
+
+To grow as a Front-End Developer by building practical projects and continuously improving my skills.
+_____________________________________________________________________________________________________________________________________
+
+⭐ Thanks for visiting my profile!
